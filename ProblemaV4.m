@@ -1,11 +1,11 @@
 %Octave Script
-%Title       : Definici髇 y Resoluci髇 de Variable, Funci髇, Dominio y Rango
-%Description : Script para daR soluci髇 a el problema de "La lata para envasar chocolate" y definir los conseptos de Variable, Funci髇, Dominio y Rango
-%Authors     : Ernesto Archundia Montiel, 
-%Date        : 20211013
+%Title       : Definici贸n y Resoluci贸n de Variable, Funci贸n, Dominio y Rango
+%Description : Script para daR soluci贸n a el problema de "La lata para envasar chocolate" y definir los conseptos de Variable, Funci贸n, Dominio y Rango
+%Authors     : Ernesto Archundia Montiel, Felipe de Jesus Atenojenes Feliciano
+%Date        : 20211013, 202123846
 %Version     : 4
 %Usage       : octave/path/DefinicionyResolucion
-%Notes       : Requiere la aplicaci髇 de octave, usar su l韓ea de comandos  
+%Notes       : Requiere la aplicaci贸n de octave, usar su l铆nea de comandos  
 
 clear
 r=0:1:10;
